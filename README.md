@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @waridh
 - 👀 I’m interested in learning more about coding and computer engineering.
-- 🌱 I’m currently learning python3.
-- 💞️ I’m looking to join an engineering club to learn even more about the craft of computer engineering.
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking for hardware computer engineering work for the summer!
 - 📫 You can reach me at my school email, and since my username is my ccid, if you go to the University of Alberta, you should know exactly what to do with that information.
 
 <!---
