@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @waridh
-- 👀 I’m interested in learning more about coding and computer engineering.
-- 🌱 I’m currently learning about yolov5 and machine learning
-- 💞️ I’m looking for more experiences
-- 📫 You can reach me at my school email, and since my username is my ccid, if you go to the University of Alberta, you should know exactly what to do with that information.
+# @waridh
+
+## About me
+
+My current experience are high level software based, however, I am looking to get into low-level coding and semiconductor design.
 
 <!---
 waridh/waridh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
