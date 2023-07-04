@@ -1,5 +1,7 @@
 # @waridh
 
+You can find my blog site at [waridh.github.io](waridh.github.io).
+
 ## About me
 
 My name is Bach Wongwandanee, and I am currently a Product Validation Engineering intern @ microchip. I go attend
