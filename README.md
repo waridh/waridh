@@ -1,6 +1,6 @@
 # @waridh
 
-You can find my blog site at [waridh.github.io](waridh.github.io).
+You can find my blog site at [waridh.github.io](https://waridh.github.io/).
 
 ## About me
 
