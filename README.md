@@ -11,10 +11,10 @@ the University of Alberta, and I am studying Nanoscale System Design Computer En
 
 I am working towards building more projects related to those topics. Here are some skills I have just for your amusement:
 
-|  |  |  |
-| --- | --- | --- |
-| Programming Languages | C/C++, Python, Rust (in-progress), OCaml (in-progress), Tcl | |
-| HDLs | SystemVerilog, VHDL | |
+|  |  |
+| --- | --- |
+| Programming Languages | C/C++, Python, Rust (in-progress), OCaml (in-progress), Tcl |
+| HDLs | SystemVerilog, VHDL |
 | Architectural Knowledge | Unix Operating Systems |
 | Instruction Sets | RISC-V (in-progress), THUMB-2 |
 
