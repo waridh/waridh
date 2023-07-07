@@ -22,7 +22,7 @@ Here are some skills I have just for your amusement:
 
 |  |  |
 | --- | --- |
-| Programming Languages | C/C++, Python, Rust (in-progress), OCaml (in-progress), Tcl |
+| Programming Languages | C/C++, PowerShell, Python, Rust (in-progress), OCaml (in-progress), Tcl |
 | HDLs | SystemVerilog, VHDL |
 | Architectural Knowledge | Unix Operating Systems |
 | Instruction Sets | RISC-V (in-progress), THUMB-2 |
@@ -31,8 +31,3 @@ Here are some skills I have just for your amusement:
 
 Previously, I have worked as a research assistant in the Department of Civil Engineering, where I researched
 ways to process point cloud data, along with some simulation and data collecting work.
-
-<!---
-waridh/waridh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
