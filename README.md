@@ -1,8 +1,6 @@
 # @waridh
 
-You can find my blog site at [waridh.github.io](https://waridh.github.io/).
-
-![](_DSC0134.jpg)
+[![](_DSC0134.jpg)](https://waridh.github.io/)
 
 ## About me
 
