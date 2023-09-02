@@ -4,8 +4,7 @@
 
 ## About me
 
-My name is Bach Wongwandanee, and I am currently a Product Validation Engineering intern @ microchip. I go attend
-the University of Alberta, and I am studying Nanoscale System Design Computer Engineering. My passion is in:
+My name is Bach Wongwandanee, and I am a student at the University of Alberta. I am studying Nanoscale System Design Computer Engineering. My passion is in:
 
 - Operating Systems
 - Kernels
