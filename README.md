@@ -11,7 +11,6 @@ My name is Bach Wongwandanee, and I am a student at the University of Alberta. I
 - Computer Architecture
 - Digital Design
 - Automation Frameworks
-- ASICs
 
 ## Skillset
 
