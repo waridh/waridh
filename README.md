@@ -16,17 +16,6 @@ I like:
 - Digital Design
 - Automation Frameworks
 
-## Skillset
-
-Here are some skills that I think I have some fundamentals in:
-
-|  |  |
-| --- | --- |
-| Programming Languages | C/C++, Java, PowerShell, Python, Rust, Tcl/tk |
-| HDLs | SystemVerilog, VHDL |
-| Architectural Knowledge | Unix Operating Systems, Computer Architecture |
-| Instruction Sets | RISC-V (in-progress), THUMB-2 |
-
 ## Brief History
 
 ### Microchip
