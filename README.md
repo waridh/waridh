@@ -7,7 +7,9 @@
 
 ## About me
 
-My name is Bach Wongwandanee, and I am a student at the University of Alberta. I am studying Nanoscale System Design Computer Engineering. My passion is in:
+**Computer Engineer at [University of Alberta](https://www.ualberta.ca/engineering/electrical-computer-engineering/index.html)**
+
+I like:
 
 - Computer Systems
 - Computer Architecture
