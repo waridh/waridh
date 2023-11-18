@@ -6,8 +6,7 @@
 
 My name is Bach Wongwandanee, and I am a student at the University of Alberta. I am studying Nanoscale System Design Computer Engineering. My passion is in:
 
-- Operating Systems
-- Software/Hardware interfaces
+- Computer Systems
 - Computer Architecture
 - Digital Design
 - Automation Frameworks
@@ -18,7 +17,7 @@ Here are some skills that I think I have some fundamentals in:
 
 |  |  |
 | --- | --- |
-| Programming Languages | C/C++, Java, PowerShell, Python, OCaml (in-progress), Tcl/tk |
+| Programming Languages | C/C++, Java, PowerShell, Python, Rust, Tcl/tk |
 | HDLs | SystemVerilog, VHDL |
 | Architectural Knowledge | Unix Operating Systems, Computer Architecture |
 | Instruction Sets | RISC-V (in-progress), THUMB-2 |
