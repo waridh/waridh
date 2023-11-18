@@ -2,6 +2,9 @@
 
 [![](_DSC0134.jpg)](https://waridh.github.io/)
 
+[![Github: Link](https://img.shields.io/badge/-waridh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waridh/)](https://www.linkedin.com/in/waridh/)
+[![Github: Link](https://img.shields.io/github/followers/waridh?label=follow&style=social)](https://github.com/waridh)
+
 ## About me
 
 My name is Bach Wongwandanee, and I am a student at the University of Alberta. I am studying Nanoscale System Design Computer Engineering. My passion is in:
