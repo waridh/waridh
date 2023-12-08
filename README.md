@@ -8,4 +8,5 @@
 ## About me
 
 **Computer Engineer at [University of Alberta](https://www.ualberta.ca/engineering/electrical-computer-engineering/index.html)**
+
 **Post-silicon Designer Intern @ AMD**
