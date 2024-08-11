@@ -7,4 +7,4 @@
 
 ## About me
 
-**Computer Engineer at [University of Alberta](https://www.ualberta.ca/engineering/electrical-computer-engineering/index.html)**
+**Intern at [this place](https://www.amd.com/en.html)**
