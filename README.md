@@ -7,4 +7,4 @@
 
 ## About me
 
-**Intern at [this place](https://www.amd.com/en.html)**
+Final year computer engineering student at the University of Alberta. I have work experience working in post silicon ASIC development, but my passion is really in creating efficient and robust software systems.
